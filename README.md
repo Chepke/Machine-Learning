@@ -17,7 +17,7 @@ i) Import libraries;
       
       Scipy
       
-i) Import data set from the file file path
+i) Load data set from the file path
 
 ii) Clean and preprocess data to find missing values from the data set
 
