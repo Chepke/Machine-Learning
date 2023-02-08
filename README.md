@@ -1,5 +1,5 @@
-# Machine-Learning
-##Question 1
+Machine-Learning
+# Question 1
 
 i) Import libraries;
 
@@ -52,7 +52,7 @@ v) Determine the skewness and kurtosis of the data distribution in the histogram
   
   viii) Construct a scattered paired plot to convey how diffferent variables relate with each other.
   
-  ##Question 2
+  # Question 2
   
   
   
@@ -61,8 +61,23 @@ v) Determine the skewness and kurtosis of the data distribution in the histogram
   
   
   
-  ##Question 3
-  **EDA
+  # Question 3
+  
+  **Linear Regression**
+  
+  i)Import libraries;
+  
+     import sklearn
+     from sklearn import linear_model
+     from sklearn.linear_model import LinearRegression
+     
+  ii) Load the dataset from it's file path
+  
+  iii)Conduct a bivariate analysis using scattered plot to determine how 'Balance' affects the 'Esimatedsalary' values
+  
+  iv) Conduct linear regression by plotting Balance aginst EstimatedSalary
+  
+  **EDA**
   
 Import libraries;
 
@@ -95,7 +110,7 @@ v) Determine the skewness and kurtosis of the data distribution in the histogram
           Kurtosis: Flatter distribution- there is a widder spread of EstimatedSalary around the mean and a larger standard deviation 
  vi) Conduct a bivariate analysis;
  
- Using scattered plot to determine how 'Balance' affects the 'charges' values
+ Using scattered plot to determine how 'Balance' affects the 'Esimatedsalary' values
  
       Results
         Older students are charged more compared to young students
