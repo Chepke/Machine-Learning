@@ -3,7 +3,7 @@ EDA steps
 
 i) Import libraries;
 
-      Panda for
+      Panda 
       
       Numpy
       
